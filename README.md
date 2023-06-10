@@ -20,3 +20,6 @@ on the new one. We used the cleardevice() function for this work, which clears
 everything on the output window when it is called.
 GAME SCREENSHOTS - 
 ![image](https://github.com/sanskritiiiiii/Graphics/assets/107865646/f6314cdd-492b-4785-bcc4-48e09be1a3ac)
+![image](https://github.com/sanskritiiiiii/Graphics/assets/107865646/9f8e1f23-ae86-4c17-8378-09fdddb78697)
+![image](https://github.com/sanskritiiiiii/Graphics/assets/107865646/ec5e47a5-0d90-471a-b12b-63b2bd2279c2)
+
