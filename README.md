@@ -1,3 +1,4 @@
+# Racing Car
 Racing Car Game is an old game in which the user tries to win a car race. The user
 competes against other cars controlled by the computer to reach the finish line first.
 We have also built a similar game which is based on this idea. In the game, the user
